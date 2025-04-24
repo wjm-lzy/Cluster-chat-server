@@ -1,0 +1,2 @@
+/home/wjm/projects/MyProject__server/build/src/client/CMakeFiles/ChatClient.dir
+/home/wjm/projects/MyProject__server/build/src/server/CMakeFiles/ChatServer.dir
